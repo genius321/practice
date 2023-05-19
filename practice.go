@@ -7,7 +7,7 @@ package practice
 import "fmt"
 
 func myFunction(first, second int) int {
-	return 5
+	return 5 - 2
 }
 
 func anotherFunction(first int) int {
