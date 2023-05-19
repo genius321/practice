@@ -5,7 +5,7 @@
 package practice
 
 func myFunction(first, second int) int {
-	return first + second
+	return 5
 }
 
 func anotherFunction(first int) int {
